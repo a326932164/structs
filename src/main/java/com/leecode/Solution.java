@@ -9,8 +9,6 @@ import java.util.List;
  * 括号匹配问题
  *
  *
- *
- *
  */
 public class Solution {
     public boolean isvaild(String s){
