@@ -7,6 +7,10 @@ import java.util.List;
 
 /**
  * 括号匹配问题
+ *
+ *
+ *
+ *
  */
 public class Solution {
     public boolean isvaild(String s){
@@ -28,7 +32,7 @@ public class Solution {
                     return  false;
                 }
                 if (ch=='}'&&toChar!='{'){
-                    return  false;
+                    return  t;
                 }
             }
         }
