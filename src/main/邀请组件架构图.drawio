@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T13:46:39.055Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RJQ256pIGIRBemI3A9vF" version="14.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-18T06:10:24.353Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Ncod1y44DmbnSPLljCCb" version="14.1.4" type="github" pages="6">
   <diagram id="00P-54HJEhtGAMyTmkvV" name="Page-1">
-    <mxGraphModel dx="2249" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gVY-AT63wsiWXdXRgZne" name="Page-2">
-    <mxGraphModel dx="2249" dy="-431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF4C3" math="0" shadow="1">
+    <mxGraphModel dx="2249" dy="-375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF4C3" math="0" shadow="1">
       <root>
         <mxCell id="lI8WHoyMWOqi51FoMHjr-0" />
         <mxCell id="lI8WHoyMWOqi51FoMHjr-1" parent="lI8WHoyMWOqi51FoMHjr-0" />
@@ -611,7 +611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zHDCS27cJn9bhkFsUkPg" name="Page-3">
-    <mxGraphModel dx="2249" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
       <root>
         <mxCell id="fp9lEJOTqGofSI_i3Mul-0" />
         <mxCell id="fp9lEJOTqGofSI_i3Mul-1" parent="fp9lEJOTqGofSI_i3Mul-0" />
@@ -646,7 +646,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2pK3ZN5h6iZescKEgmYB-8" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;fontSize=8;" vertex="1" parent="fp9lEJOTqGofSI_i3Mul-1">
-          <mxGeometry x="493" y="270" width="147" height="200" as="geometry" />
+          <mxGeometry x="493" y="270" width="147" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2pK3ZN5h6iZescKEgmYB-9" value="邀请者邀请次数" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;fontSize=8;" vertex="1" parent="fp9lEJOTqGofSI_i3Mul-1">
           <mxGeometry x="502.25" y="295" width="117.75" height="20" as="geometry" />
@@ -734,8 +734,8 @@
         </mxCell>
         <mxCell id="2pK3ZN5h6iZescKEgmYB-31" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;endWidth=16.17142857142857;endSize=0.8480000000000001;width=8.571428571428571;fontSize=9;dashed=1;dashPattern=1 1;labelBackgroundColor=#F4F1DE;" edge="1" parent="fp9lEJOTqGofSI_i3Mul-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="371" as="sourcePoint" />
-            <mxPoint x="138.3800000000001" y="370.79999999999984" as="targetPoint" />
+            <mxPoint x="460" y="507.2" as="sourcePoint" />
+            <mxPoint x="468.3800000000001" y="506.99999999999983" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -867,9 +867,6 @@
         <mxCell id="2pK3ZN5h6iZescKEgmYB-66" value="是否本次新邀请" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;fontSize=8;" vertex="1" parent="fp9lEJOTqGofSI_i3Mul-1">
           <mxGeometry x="502.25" y="405" width="117.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2pK3ZN5h6iZescKEgmYB-67" value="参与者是否参与过其他邀请" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;fontSize=8;" vertex="1" parent="fp9lEJOTqGofSI_i3Mul-1">
-          <mxGeometry x="501.5" y="435" width="117.75" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="2pK3ZN5h6iZescKEgmYB-68" value="" style="endArrow=none;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;fontSize=9;labelBackgroundColor=#F4F1DE;" edge="1" parent="fp9lEJOTqGofSI_i3Mul-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="420" as="sourcePoint" />
@@ -907,7 +904,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jr7oo2mU78TnyFXSyclt" name="Page-4">
-    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NnrNIKoFNHPvy3V8ZRGl-0" />
         <mxCell id="NnrNIKoFNHPvy3V8ZRGl-1" parent="NnrNIKoFNHPvy3V8ZRGl-0" />
@@ -936,7 +933,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FCrFoGqATr4J6FXMsyj1" name="Page-5">
-    <mxGraphModel dx="1422" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE599" math="0" shadow="1">
+    <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE599" math="0" shadow="1">
       <root>
         <mxCell id="BrBzuFPPoL1JsA6TH1JO-0" />
         <mxCell id="BrBzuFPPoL1JsA6TH1JO-1" parent="BrBzuFPPoL1JsA6TH1JO-0" />
@@ -1370,7 +1367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qoxzSy_-jH0P_6XTm67l" name="Page-6">
-    <mxGraphModel dx="2012" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
       <root>
         <mxCell id="dhMTdSAxhLQcWUp4iGAX-0" />
         <mxCell id="dhMTdSAxhLQcWUp4iGAX-1" parent="dhMTdSAxhLQcWUp4iGAX-0" />
